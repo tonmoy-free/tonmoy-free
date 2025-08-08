@@ -3,14 +3,20 @@
 </a>
 
 ## :mailbox: Reach me out
-<br />
-
-[<p align="center"><img height="75" src=" https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/Facebook.png ">]
-(https://www.facebook.com/md.tonmoy.khan.132489)
- [<img height="75" src=" https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/Linkedin%20(1).png "> </p>]
-(https://www.linkedin.com/in/md-tonmoy-khan-ab9080183/)
 
 <br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-tonmoy-khan-ab9080183/">
+    <img height="75" src=" https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/Linkedin%20(1).png" alt="LinkedIn">
+  </a>
+  <a href=" https://www.facebook.com/md.tonmoy.khan.132489">
+    <img height="75" src=" https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/Facebook.png" alt="Facebook">
+  </a>
+</p>
+
+<br />
+
 
 
 
