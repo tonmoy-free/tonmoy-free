@@ -2,6 +2,14 @@
 <img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/TonmoyCard.gif" />
 </a>
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tonmoy-free&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+
 ## :mailbox: Reach me out
 
 <br />
