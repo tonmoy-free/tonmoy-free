@@ -26,6 +26,26 @@
 <br />
 
 
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/HTML.png"/>
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/css.png"/>
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/JavaScript.png"/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/react.png"/>
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/tailwind.png"/>
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/Bootsrap.png"/>
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/node.png"/>
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/express.png"/>
+<img src="https://raw.githubusercontent.com/tonmoy-free/tonmoy-free/refs/heads/main/mongo.png"/>
+</p><br/>
+
 
 
 
